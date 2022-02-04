@@ -354,6 +354,7 @@ window.snake.more_menu = function() {
                   }
               } else
                 ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 100000, 1));
+
             } else {
               if(${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} < 7)
                 for(
@@ -414,6 +415,7 @@ window.snake.more_menu = function() {
                   ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 0, 0));
               }
             }
+
             if(${modecheck}(this,2)) { ${dothethingportalstyle} }
           } else if(d=${inevilmodesf}(this))
           `
@@ -586,6 +588,7 @@ window.snake.more_menu = function() {
           `
           window.bwidth  = a.${size} === 3 ? 5 : a.${size} === 4 ? 7 : a.${size} === 5 ? 12 : a.${size} === 6 ? 37 : a.${size} === 7 ? 64 : a.${size} === 8 ? 105 : a.${size} === 9 ? 168 : a.${size} === 10 ? 600 : Math.floor(c/${wa}),
           window.bheight = a.${size} === 3 ? 4 : a.${size} === 4 ? 6 : a.${size} === 5 ? 11 : a.${size} === 6 ? 32 : a.${size} === 7 ? 56 : a.${size} === 8 ? 92  : a.${size} === 9 ? 147 : a.${size} === 10 ? 530 : Math.floor(d/${wa})));
+
           let squareSize = 600 / (window.bwidth);
           if(squareSize * window.bheight > 530)
             squareSize = 530 / window.bheight;
